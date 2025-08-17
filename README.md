@@ -34,6 +34,10 @@ And on GitHub trending!
 1. There is no need for the pound symbol - short URLs look clean like this:
    `ccb.wtf/1` instead of looking like this: `ccb.wtf/#1`.
 
+1. Tracks visit counts using [count.getloli.com](https://count.getloli.com).
+   Display the counter with
+   `<img src="https://count.getloli.com/get/@:rinmescount" alt=":rinmescount" />`.
+
 ## 💡 How does this work?
 
 _Thanks to @kidGodzilla for the pretty neat explanation
